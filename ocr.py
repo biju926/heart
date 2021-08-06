@@ -7,11 +7,7 @@ from PIL import Image
   
  # converts the text to speech  
 import pyttsx3           
-  
-#translates into the mentioned language
-from googletrans import Translator
-import pywhatkit as kit
-  
+    
  # opening an image from the source path
 img = Image.open('C:\\Users\\manya\\Desktop\\Prescription.jpg')     
   
